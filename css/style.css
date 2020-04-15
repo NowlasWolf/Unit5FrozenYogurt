@@ -1074,3 +1074,8 @@ img {
 #footer div .connect a.twitter {
 	background-position: 0 -96px;
 }
+
+.formthing{
+	display: block;
+	margin-bottom: 1em;
+}
